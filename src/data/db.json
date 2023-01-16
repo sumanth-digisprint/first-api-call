@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "productName": "LG TV",
+      "Price": "9999",
+      "Discount": "100"
+    },
+    {
+      "id": 2,
+      "productName": "Redmi Note 8",
+      "Price": "9999",
+      "Discount": "100"
+    },
+    {
+      "id": 3,
+      "productName": "Realme",
+      "Price": "6999",
+      "Discount": "40"
+    },
+    {
+      "id": 4,
+      "productName": "HP Laptop",
+      "Price": "49999",
+      "Discount": "90"
+    },
+    {
+      "id": "5",
+      "productName": "Apple Watch",
+      "Price": "6599",
+      "Discount": "100"
+    },
+    {
+      "id": "lufOoTh",
+      "productName": "",
+      "Price": "",
+      "Discount": ""
+    },
+    {
+      "id": "eml5Fsz",
+      "productName": "",
+      "Price": "",
+      "Discount": ""
+    },
+    {
+      "id": "1sOdV6Y",
+      "productName": "",
+      "Price": "",
+      "Discount": ""
+    }
+  ]
+}
